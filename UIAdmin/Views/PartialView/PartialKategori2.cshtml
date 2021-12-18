@@ -1,0 +1,17 @@
+﻿<script>
+    $(".select2").change(function () {
+        $(".Kategori3").load("/PartialView/AltAltKatagori/" + $(this).val() + "");
+        $(".Kategori3").html("");
+    });
+</script>
+
+<select name="CategoriesId" class="form-control select2">
+    <option value="0">Kategori Seçiniz.</option>
+    @if (Model != null)
+    {
+        foreach (var item in Model)
+        {
+            <option value="@item.Id">@item.Name</option>
+        }
+    }
+</select>
