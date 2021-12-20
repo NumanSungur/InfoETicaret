@@ -10,4 +10,4 @@
  * *UIWeb*</br>
  * *WebAPI*</br>
  
- ***Projede,UIWeb katmanında anasayfa,kategori detay sayfası,ürün detay sayfası, hesabım(üye ol&giriş yap) sayfası,sepetim sayfasını ve UIAdmin(Yönetim Paneli) katmanında ürün,kategori,varyant ve sipariş yönetimi sayfalarını geliştirdim. Elektronik,Kırtasiye,Muzik,Spor,Oyuncak ve Kozmetik olarak 7 kategoriden oluşan ürünleri sepete eklerken varyant yapısı(renk) ekleyerek farlı seçenek özelliğikullanmış oldum.*** 
+ ***Projede,UIWeb katmanında anasayfa,kategori detay sayfası,ürün detay sayfası, hesabım(üye ol&giriş yap) sayfası,sepetim sayfasını ve UIAdmin(Yönetim Paneli) katmanında ürün,kategori,varyant ve sipariş yönetimi sayfalarını geliştirdim. Elektronik,Kırtasiye,Muzik,Spor,Oyuncak ve Kozmetik olarak 7 kategoriden oluşan ürünleri sepete eklerken varyant yapısı(renk) ekleyerek farlı seçenek özelliği kullanmış oldum.*** 
